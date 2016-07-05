@@ -1,0 +1,17 @@
+<section>
+    <header>
+        <h1> {{ cityName }} </h1>
+    </header>
+    <article>
+        <ul>
+            {{#each list}}
+                <li>
+                    <div class="day-name">{{ this.dayName }}</div>
+                    <div class="icon"><img src="http://openweathermap.org/img/w/{{this.weather.icon}}.png" alt="{{this.weather.description}}"></div>
+                    <div class="temperature max">{{ this.maxTemp }} ℃</div>
+                    <div class="temperature min">{{ this.minTemp }} ℃</div>
+                </li>
+            {{/each}}
+        </ul>
+    </article>
+</section>
