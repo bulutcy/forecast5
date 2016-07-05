@@ -6,7 +6,7 @@ Demo at http://178.62.117.140
 ## Installation
 
  Make sure that you have API key from http://openweathermap.org/appid , a sample API key is already in config.js
- Run
+ 
 
 ```sh
 ❯ npm install
