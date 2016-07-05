@@ -1,5 +1,5 @@
 # forecasto
-A simple web app that fetches 5 day forecast from http://openweathermap.org/forecast5
+A simple web app that fetches 5 day forecast from http://openweathermap.org
 
 It is developed using ES2015, HTML5, CSS3, SASS, HandleBars, Browserify, Babel, Karma. Initial boiler plate is generated using yeoman.
 Demo at http://178.62.117.140
