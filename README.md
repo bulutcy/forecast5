@@ -1,6 +1,7 @@
 # forecasto
 A simple web app that fetches 5 day forecast from http://openweathermap.org
-It was prepared for a job interview.
+
+It was prepared for a job interview to give an idea of my code style.
 
 It is developed using ES2015, HTML5, CSS3, SASS, HandleBars, Browserify, Babel, Karma. Initial boiler plate is generated using yeoman.
 
